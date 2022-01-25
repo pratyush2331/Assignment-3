@@ -1,5 +1,5 @@
 # Assignment-3
-Counter app using React-native in expo with increment, decrement and reset option.
+Counter app using using states in React-native (expo) with increment, decrement and reset option.
 
 **For Triangular Button**
 Stackoverflow link: https://stackoverflow.com/questions/30216929/css-triangles-in-react-native
